@@ -29,6 +29,7 @@ Juwelier::Tasks.new do |gem|
   gem.version = s_version
 
   # dependencies defined in Gemfile
+  gem.add_dependency "rails", ">= 5.0.0"
 end
 Juwelier::RubygemsDotOrgTasks.new
 require 'rspec/core'
