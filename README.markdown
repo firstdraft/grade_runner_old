@@ -1,9 +1,8 @@
-grade_runner===================
+# grade_runner
 
-Description goes here.
+A Ruby client for [firstdraft Grades](https://grades.firstdraft.com)
 
-Contributing to grade_runner
-------------------------------------------
+## Contributing to grade_runner
 
 -   Check out the latest master to make sure the feature hasn't been
     implemented or the bug hasn't been fixed yet.
